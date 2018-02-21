@@ -4,7 +4,7 @@ class DataObjectTest {
 	private int id;
 	private String name;
 	private String value;
-	
+	 
 	DataObjectTest(int id, String name, String value){
 		this.id = id;
 		this.name = name;
